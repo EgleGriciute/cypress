@@ -1,0 +1,17 @@
+{
+  "name": "mockpagetask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "cypress:open": "npx cypress open",
+  "cypress:run": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}
